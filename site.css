@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+header{  width: 50%;
+height: 100vh;
+background-color: black;
+position: sticky;
+
+top: 0;
+}
+
+body{
+    display: flex;
+  
+    width: 100%;
+    
+}
+div{
+    color: white;
+}
+.meio{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(img_9.jpg.png);
+}
+.logo{
+    font-size: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 30px;
+    font-family: "Quicksand","Segoe UI","Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    text-align: justify;
+}
+.alinhar{
+    height: 100vh;
+    margin: 12%;
+}
+ul{
+    list-style: none;
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    unicode-bidi: isolate;
+    position: fixed;
+}
+
+.ajuste1{
+    display: block;
+    padding: 0.5rem 1rem;
+    
+}
+.branco{
+    color: #fff;
+    text-align: center;
+    font-size: 64px;
+    
+}
+    
+h1{
+    display: block;
+    font-size: 2em;
+
+}
+.ajuste4{
+    font-size: 1.25rem;
+    font-family: inherit
+}
+.meio{
+    padding: 25rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.font1{
+    padding: 15px 30px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    
+
+}
+.bnt1{
+    border-radius: 30px;
+    color: #fff;
+    background-color: #df0e62;
+    border-color: #df0e62;
+    text-align: center;
+}
+
+
+#button{
+    margin-top: 50px;
+}
+.ajuste4{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -2.5px;
+    margin-left: -2.5px;
+}
+.imgconfig{
+    max-width: 100%;
+}
+.img{
+    max-width: 200px;
+}
+.imgconfig{
+    width: 33%;
+    height: 300px;
+    object-fit: cover;
+}
+#part3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+section{
+    background-color: black;
+}
+.imgconfig1{
+    border-radius: 50%;
+    width: 160px;
+
+}
+#imgconfig2{
+    margin-top: 40px;
+}
+.separar{
+    margin-top: 120px;
+    font-size: 50px;
+    font-family: "Quicksand";
+    text-align: center;
+
+}
+.font2{
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/oswald/v53/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlSHYjedg.woff2) format('woff2');
+
+}
+#center{
+    text-align: center;
+}
+.part4{
+    margin-top: 200px;
+    margin-left: 13%;
+
+}
+#imgconfig3{
+    height: 380px;
+    width: 400px;
+}
+
